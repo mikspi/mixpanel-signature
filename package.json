@@ -1,7 +1,7 @@
 {
   "name": "mixpanel-signature",
-  "version": "0.0.4",
-  "description": "This module automatically adds to a MixPanel API url the proper signature.",
+  "version": "0.0.5",
+  "description": "This module automatically adds the proper signature to a MixPanel API",
   "main": "index.js",
   "keywords": [
     "mixpanel",
@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "MD5": "*"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mikspi/mixpanel-signature"
   }
 }
