@@ -9,11 +9,9 @@
   ],
   "author": "Michele Spina",
   "license": "ISC",
-  "dependencies": {
-    "MD5": "*"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/mikspi/mixpanel-signature"
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikspi/mixpanel-signature"
   }
 }
