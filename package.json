@@ -1,6 +1,6 @@
 {
   "name": "mixpanel-signature",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "This module automatically adds the proper signature to a MixPanel API",
   "main": "index.js",
   "keywords": [
